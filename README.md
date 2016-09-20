@@ -1,2 +1,2 @@
-# hmklife--pricing
-pricing page for hallmark life
+# hmklife-pricing
+Pricing page for Hallmark Life
